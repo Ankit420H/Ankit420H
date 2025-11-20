@@ -1,43 +1,35 @@
-<h2>
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
-  नमस्ते (Namaste) 🙏🏻, I'm Junior
-  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
-</h2>
-
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-
-<p>
-  <em>
-    Tech Enthusiast & Developer
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-  </em>
+<p align="center">
+  <a href="#"><img width="80%" alt="Hello, I'm Junior" src="./assets/gh-readme-header.png" /></a>
 </p>
 
-<a href="#">
-  <img src="https://img.shields.io/badge/Twitter-Follow-blue">
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/LinkedIn-Junior-blue?style=flat-square&logo=Linkedin&logoColor=white">
-</a>
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Follow&style=social">
-<a href="#">
-  <img src="https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white">
-</a>
-<img src="https://visitor-badge.glitch.me/badge?page_id=junior.profile">
+<br />
 
-<h3>📫 Want to Connect?</h3>
-<p>Book a slot if you want to discuss tech, projects, or collaboration ideas.</p>
+I'm a self-driven developer from India 🇮🇳, focused on building scalable, high-impact solutions with a bias for execution.
 
-<a href="#" target="_blank">
-  <img width="498" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png">
-</a>
+## **About Me**
 
-<p>Run this in your terminal:</p>
+- 💼 Engineering Contributor & Full-Stack Developer  
+- 🚀 Building projects with real-world impact • Driving hands-on innovation across the stack  
+- ❤️ Deep affinity for Python, JavaScript, and performance-first engineering  
+- 💬 Open to discussions, collaborations, and problem-solving: **raise an issue anytime**
 
+---
 
-npx junior
+### **Tech Stack**
 
-<p><strong>CLI Tool Repository:</strong> https://github.com/YOUR_GITHUB_USERNAME/npx_card </p>
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
+<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" alt="django" src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png"></code>
+<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+
+---
+
+## **Performance Snapshot**
+
+| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Junior's GitHub stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 
 <h3>
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
